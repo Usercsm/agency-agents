@@ -1,6 +1,7 @@
 # convert-outputs manifest v2 — one line per agent (its output across every tool), one per tool
 # (non-agent files), one per contract. Platform-neutral hashes. Regenerate: scripts/test-convert-outputs.sh --update
 agent	3d-scene-developer	cb46371b7ee6fa5fabfc5da1094a2b1a552e4adc1a76fcd44b604c2e0c9fed27
+agent	3d-web-visualization-engineer	0fcf94588eaa0b2006d65a1aca9c2d3526eeb3a25a21e4588fb674f62c503e38
 agent	accessibility-auditor	f797a3000f39d0c91a1722c5e4004a6db7f1d665fd069ea9e8c16be32c9c8a13
 agent	account-strategist	474bd07c750f87c202f214dab515ab7fb9c82394c62b9d5752902d5eb7fbd8a2
 agent	accounts-payable-agent	c029200e90ab6bd2020dac5c868f4f6582c26bb3cbcfac346d52f8405102d32b
@@ -42,6 +43,7 @@ agent	chief-of-staff	7b4310fc1f04ec997dd633b7b7e0d89f52b1a687fbaa710de0e107c173f
 agent	china-e-commerce-operator	a2b9d7bb3cd571cfee39f808a0326f0f4ca8036e7fca9c5363004336d6d06375
 agent	china-market-localization-strategist	4e144930de0c803ae930981d6e3577f4fa035ca9917f9cb7fce9b2b112896589
 agent	china-network-engineer	406a6032cc7292f28fa46e69ed43bc7e35ec987d9ef8477377e92982cb0b95b3
+agent	circuit-simulation-engineer	a49dc9f22fcfb8b359eb433bfce97c207bc0d858e428a5316382635469bc065f
 agent	civil-engineer	e0e0505c9ccc978a7a18399d4e3cc37ee5961255d76e393c538d94d896f5fc2c
 agent	clinical-evidence-agent	1e33191bdad4e58e0c61476fdbf47c92833705df8809e138b713f16dd3711f0d
 agent	cloud-security-architect	c3723f4f18fdd5ae947dfe70a565965c48d364d937568013ee98f5c7f24abb6b
