@@ -173,6 +173,8 @@ Building the future, one commit at a time.
 | 🎬 [Video Streaming Engineer](engineering/engineering-video-streaming-engineer.md) | Video streaming & transcoding | HLS/DASH, ABR, codecs, CDN delivery, low-latency streaming |
 | 💰 [FinOps Engineer](engineering/engineering-finops-engineer.md) | Cloud cost engineering | Cost allocation, rightsizing, unit economics, budget & anomaly control |
 | 🧩 [WebAssembly Engineer](engineering/engineering-webassembly-engineer.md) | WebAssembly & WASI | Rust/C++→WASM, sandboxing, host bindings, performance |
+| 🔌 [Circuit Simulation Engineer](engineering/engineering-circuit-simulation-engineer.md) | Electronic circuit simulators | MNA solvers, nonlinear devices, netlists, validating AI-generated circuits |
+| 🧊 [3D Web Visualization Engineer](engineering/engineering-3d-web-visualization-engineer.md) | Data-driven 3D on the web | Three.js/react-three-fiber, procedural models, instancing, live data animation |
 | 🔌 [API Platform Engineer](engineering/engineering-api-platform-engineer.md) | API gateways & platforms | Gateway design, versioning, rate limiting, developer portals |
 | 🛟 [Database Reliability Engineer](engineering/engineering-database-reliability-engineer.md) | Database reliability (DBRE) | HA/replication, automated failover, PITR backups, zero-downtime ops |
 | 🛠️ [Developer Tooling Engineer](engineering/engineering-developer-tooling-engineer.md) | CLI & developer tooling | Command-line tools, internal DX, build/dev workflows |
